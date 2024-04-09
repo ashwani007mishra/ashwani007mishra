@@ -1,4 +1,4 @@
-Hi there! 👋 <br /> I'm Ashwani 🌞, <br /> a Full-Stack Developer.<br />  
+Hi there! 👋 <br /> I'm Ashwani 🌞, <br /> a Full-Stack Developer, I also work on Wordpress/Woo-commerce & Shopify.<br />  
 🎊 Welcome to my GitHub profile! Here you'll find a variety of projects, ranging from personal experiments to contributions to open-source initiatives. <br />
 ## About Me 😊
 
@@ -18,7 +18,8 @@ Hi there! 👋 <br /> I'm Ashwani 🌞, <br /> a Full-Stack Developer.<br />
 ✅ Project Management: Trello | Asana | Jira | Monday.com | Notion | Linear | Figma  
 ✅ Tools: Visual Studio Code | Sublime Text | Atom  
 
-## Service I Provide 👍<br />
+## Services I Provide 👍<br />
+:zap: Wordpress/Woo-commerce & Shopify <br />
 :zap: Linkedin Automation <br />
 :zap: Chrome Extension <br />
 :zap: Browser Extension <br />
