@@ -3,11 +3,11 @@ Hi there! I'm Ashwani 🌞, a Full-Stake Developer.
 
 ## About Me 😊
 
-🌱 I’m currently learning DevOps 
-💼 I am open to work 
-👥 I’m looking to collaborate on developement realted work 
-🎓 I have done Master in computer science 
-📫 How to reach me: ashwani007mishra@gmail.com 
+🌱 I’m currently learning DevOps  
+💼 I am open to work  
+👥 I’m looking to collaborate on developement realted work  
+🎓 I have done Master in computer science  
+📫 How to reach me: ashwani007mishra@gmail.com  
 
 ## My Skills 🦾
 
