@@ -18,7 +18,7 @@ Hi there! 👋 <br /> I'm Ashwani 🌞, <br /> a Full-Stack Developer.<br />
 ✅ Project Management: Trello | Asana | Jira | Monday.com | Notion | Linear | Figma  
 ✅ Tools: Visual Studio Code | Sublime Text | Atom  
 
-**Service I Provide** 👍<br /><br />
+## Service I Provide 👍<br /><br />
 :zap: Linkedin Automation <br />
 :zap: Chrome Extension <br />
 :zap: Browser Extension <br />
