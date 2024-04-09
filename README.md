@@ -18,7 +18,18 @@ Hi there! 👋 <br /> I'm Ashwani 🌞, <br /> a Full-Stack Developer.<br />
 ✅ Project Management: Trello | Asana | Jira | Monday.com | Notion | Linear | Figma  
 ✅ Tools: Visual Studio Code | Sublime Text | Atom  
 
-
+**Service I Provide** 👍<br /><br />
+:zap: Linkedin Automation <br />
+:zap: Chrome Extension <br />
+:zap: Browser Extension <br />
+:zap: ChatGPT/OPENAI <br />
+:zap: E-Commerce Development <br />
+:zap: Fullstack Development <br />
+:zap: Web development <br />
+:zap: Mobile development <br />
+:zap: Multi-threaded Scraper <br />
+:zap: Image scraping <br />
+:zap: DOM manipulation<br /><br />
 
 ## Let's Connect! 🤝
 
